@@ -1,3 +1,3 @@
 # fakhte
 
-just a prank for my bestie
+just a prank for my bestie 'kosar'
