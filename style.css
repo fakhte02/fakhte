@@ -1,0 +1,35 @@
+.abillity-test {
+        background-color: rgb(239, 255, 253);
+        
+        text-align: center;
+        padding: 30px 10px;
+        margin: 70px auto;
+        border: rgb(239, 255, 253) solid 1px;
+        border-radius: 20px;
+}
+
+h1 {
+        color: red;
+        text-align: center;
+}
+
+h2 {
+        text-align: center;
+        color: blueviolet;
+}
+
+
+#date {
+        text-align: center;
+        color: blueviolet;
+}
+
+#name {
+        text-align: center;
+        color: blue;
+}
+
+h4 {
+        text-align: center;
+        color: blue;
+}
