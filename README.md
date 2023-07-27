@@ -1,8 +1,8 @@
 # fakhte
 
-just a prank for my bestie 'kosar'
+still processing...
 
-maded with love ❤
+made with love ❤
 
 idea for fakhte02
  coding by AmiraliBakhshandeh
